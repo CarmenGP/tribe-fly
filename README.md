@@ -6,7 +6,7 @@ Tribe Fly ![minniePerezLogoEmoticono](https://user-images.githubusercontent.com/
 
 ## Description 📝
 
-Tribe Fly is a marketplace where you can rent out your home and showcase the best experiences of the area in different parts of the world. With this web application, you can search for accommodations, view the details and features of each of them, and book your lodging safely and reliably.
+On our website, we strive to offer unique and authentic experiences. It's more than just a place - we want to help our customers create unforgettable memories during their travels.
 
 Develop a Web "CRUD" application in PHP that allows developers and teams to make appointments to solve technical problems with the help of the trainer or CTO.
 
