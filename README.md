@@ -1,10 +1,19 @@
-![headerLogoGrey](https://user-images.githubusercontent.com/116546624/206896276-0478d04b-396a-49a2-9710-bb8e53e07198.png)
 
-## Project name
+<p align="center"><img src="https://user-images.githubusercontent.com/116794919/220713053-3dc7d8ad-a6dd-46ad-ae35-46396f5e0e95.png" width="300" alt="TRIBE.FLY"></p>
+<p align="center">
 
-Tribe Fly ![tribe Fly LogoEmoticono](https://user-images.githubusercontent.com/116546624/220708465-4602d358-c8ab-4379-946e-2df420261c0c.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/116546624/220708465-4602d358-c8ab-4379-946e-2df420261c0c.jpg" width="50" alt="LOGO"></p>
+<p align="center">
 
-## Description 📝
+## Table of Contents
+1. [Description](#description)
+2. [Technologies](#technologies)
+3. [Tools](#tools)
+4. [Installation](#installation)
+5. [Design](#design)
+
+
+## Description   📝
 
 On our website, we strive to offer unique and authentic experiences. It's more than just a place - we want to help our customers create unforgettable memories during their travels.
 
