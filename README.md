@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+![headerLogoGrey](https://user-images.githubusercontent.com/116546624/206896276-0478d04b-396a-49a2-9710-bb8e53e07198.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project name
 
-## Available Scripts
+Tribe Fly ![minniePerezLogoEmoticono](https://user-images.githubusercontent.com/116546624/206896606-4f2a818e-faee-4569-b87e-4fc2bbabf884.png)
 
-In the project directory, you can run:
+## Description 📝
 
-### `npm start`
+Tribe Fly is a marketplace where you can rent out your home and showcase the best experiences of the area in different parts of the world. With this web application, you can search for accommodations, view the details and features of each of them, and book your lodging safely and reliably.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Develop a Web "CRUD" application in PHP that allows developers and teams to make appointments to solve technical problems with the help of the trainer or CTO.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ ## Members 🦷 
+  
+- [Paloma Ruiz Ramírez](https://github.com/birdsinyourgarden) - SCRUM Master
 
-### `npm test`
+- [Ana Rueda Guiu](https://github.com/anaruedaguiu) - Product Owner
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Carmen Gallardo Pozo](https://github.com/CarmenGP) - Developer
 
-### `npm run build`
+- [Camila Ruiz Gutiérrez](https://github.com/camilaruiz17) - Developer
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Noa Trujillo Zamora](https://github.com/mintybubblegum) - Developer
+  
+## Screenshots 🐭
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img src="https://user-images.githubusercontent.com/108950985/207260246-68cd6ad5-d8ed-47ef-a52e-692433e2ffc8.png" width="300px">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="https://user-images.githubusercontent.com/108950985/207260323-b4994980-305d-4038-9f79-cad18934ab7b.png" width="300px">
 
-### `npm run eject`
+<img src="https://user-images.githubusercontent.com/108950985/207260365-d12770ee-eccd-4ce7-9a35-000d3250f7d0.png" width="300px">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Stacks 🔧
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* Project sketch and final design: Figma.
+* Frontend: HTML5, CSS3.
+* Backend: PHP.
+* Database design: myDrawSql.
+* Database: MySQL.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Required
 
-## Learn More
+* PHP 7.4 min
+* Composer installed
+* mySql
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## To install project
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Clone git https://github.com/birdsinyourgarden/minniePerez.git
+* Composer install
+* Create database in PhpMyAdmin with database name : minnieperezbbdd.
+* Import the following database table: minniePerez/public/importSql/childrenteeth.sql
 
-### Code Splitting
+## Tests 🪄
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* vendor/bin/phpunit
+* php artisan test
+* (5 tests, 5 assertions)
 
-### Analyzing the Bundle Size
+## Methodology 📚
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* Agile and SCRUM
+* Mob programming
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Core skills:
+* MVC Design pattern.
+* Git version control system.
+* User stories and tasks implementation (Trello).
+* Communication and self-evaluation.
