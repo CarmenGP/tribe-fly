@@ -16,7 +16,7 @@ On our website, we strive to offer unique and authentic experiences. It's more t
 
 - [Carmen Gallardo Pozo](https://github.com/CarmenGP) - Developer
 
-- [Anyi](//https://github.com/Anyi79) - Developer
+- [Anyi](https://github.com/Anyi79) - Developer
 
 - [Lucas](https://github.com/Lucasibf5) - Developer
 
