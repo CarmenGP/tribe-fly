@@ -10,15 +10,23 @@ On our website, we strive to offer unique and authentic experiences. It's more t
 
  ## Members 🦷 
   
-- [Paloma Ruiz Ramírez](https://github.com/birdsinyourgarden) - SCRUM Master
+- [Linda Haeli](https://github.com/LindaHG1) - SCRUM Master
 
-- [Ana Rueda Guiu](https://github.com/anaruedaguiu) - Product Owner
+- [Jas Marin](https://github.com/JasMarin) - Product Owner
 
 - [Carmen Gallardo Pozo](https://github.com/CarmenGP) - Developer
 
-- [Anyi](https:(//https://github.com/Anyi79) - Developer
+- [Anyi](//https://github.com/Anyi79) - Developer
 
-- [Noa Trujillo Zamora](https://github.com/JasMarin) - Developer
+- [Lucas](https://github.com/Lucasibf5) - Developer
+
+-  [Salah](https://github.com/SalahREH) - Developer
+
+-  [Rodrigo](https://github.com/Rodrigo-ASJ) - Developer
+
+-  [Rocio Germillac](https://github.com/rgermillaclopez) - Developer
+
+-  [Vanessa](https://github.com/vanessa-cp) - Developer
   
 ## Screenshots 🐭
 
