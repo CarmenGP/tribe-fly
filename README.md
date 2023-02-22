@@ -16,9 +16,9 @@ On our website, we strive to offer unique and authentic experiences. It's more t
 
 - [Carmen Gallardo Pozo](https://github.com/CarmenGP) - Developer
 
-- [Camila Ruiz Gutiérrez](https://github.com/camilaruiz17) - Developer
+- [Anyi](https://https://github.com/Anyi79) - Developer
 
-- [Noa Trujillo Zamora](https://github.com/mintybubblegum) - Developer
+- [Noa Trujillo Zamora](https://github.com/JasMarin) - Developer
   
 ## Screenshots 🐭
 
