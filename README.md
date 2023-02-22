@@ -8,8 +8,6 @@ Tribe Fly ![minniePerezLogoEmoticono](https://user-images.githubusercontent.com/
 
 On our website, we strive to offer unique and authentic experiences. It's more than just a place - we want to help our customers create unforgettable memories during their travels.
 
-Develop a Web "CRUD" application in PHP that allows developers and teams to make appointments to solve technical problems with the help of the trainer or CTO.
-
  ## Members 🦷 
   
 - [Paloma Ruiz Ramírez](https://github.com/birdsinyourgarden) - SCRUM Master
