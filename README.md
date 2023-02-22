@@ -2,7 +2,7 @@
 
 ## Project name
 
-Tribe Fly ![minniePerezLogoEmoticono](https://user-images.githubusercontent.com/116546624/206896606-4f2a818e-faee-4569-b87e-4fc2bbabf884.png)
+Tribe Fly ![tribe Fly LogoEmoticono](https://user-images.githubusercontent.com/116546624/220708465-4602d358-c8ab-4379-946e-2df420261c0c.jpg)
 
 ## Description 📝
 
