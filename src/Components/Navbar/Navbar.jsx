@@ -7,14 +7,14 @@ import logo from "./image/logo.png"
 
 export const Navbar = () => {
   const [toggle, setToggle] = useState(false);
-  
+
   const handleToggle = () => {
     setToggle(!toggle);
   };
 
   return (
     <nav className={toggle ? "navbar expanded" : "navbar"}>
-        <img className="logo" src={logo} alt="tribe.fly" />
+      <img className="logo" src={logo} alt="tribe.fly" />
       <div className="toggle-icon" onClick={handleToggle}>
         {toggle ? <Icon icon={x} size={28} /> : <Icon icon={menu} size={28} />}
       </div>
