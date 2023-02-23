@@ -45,12 +45,13 @@ On our website, we strive to offer unique and authentic experiences. It's more t
   
 ## Design
 
+<p align="center"><img src="https://user-images.githubusercontent.com/116794919/220883003-f8f5f9a6-9086-40a0-a0e2-2a31d1b4ee5f.png" width="300px">
 
-<img src="" width="300px">
+<img src="https://user-images.githubusercontent.com/116794919/220884858-8df7de65-6413-49a9-af8f-9e17930c7d57.png" width="300px">
 
-<img src="" width="300px">
+<img src="https://user-images.githubusercontent.com/116794919/220884542-ca340317-8502-4599-8066-2b0585e99c32.png" width="300px">
 
-<img src="" width="300px">
+<img src="https://user-images.githubusercontent.com/116794919/220884089-45724bd5-7a41-4f31-908b-a4038d9fda5c.png" width="300px"></p>
 
 
 ## Technologies
@@ -78,8 +79,8 @@ On our website, we strive to offer unique and authentic experiences. It's more t
 
 ## Tests 
 
-* vendor/bin/phpunit
-* php artisan test
+* 
+* 
 
 ## Methodology
 
