@@ -1,18 +1,18 @@
 import './App.css';
 import AboutUs from './Components/AboutUs/AboutUs';
 import { FooterContainer } from './Components/Footer/Footer';
-import DarkVariantExample from './Components/Slider/slider';
-import WeatherPanel from './Components/Weather/WeatherPanel';
+import MainPage from './Components/MainPage/MainPage';
+import MarketplacePage from './Components/MarketplacePage/MarketplacePage';
+import Navbar from './Components/Navbar/Navbar';
 
 function App() {
+  
+
   return (
+
     <div className="App">
-
-      <AboutUs/>
-
-      <DarkVariantExample/>
-
-      <WeatherPanel />
+      <Navbar />
+      <MainPage />
       <FooterContainer /> 
 
     </div>
