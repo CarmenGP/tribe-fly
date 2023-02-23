@@ -2,13 +2,13 @@ import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 import "./slider.css"
 import img from "./imagenes/img1.jpg"
-function DarkVariantExample() {
+function CarouselComponent() {
     return (
-        <Carousel variant="dark" >
+        <Carousel variant="light" >
             <Carousel.Item >
                 <img
                     className="slider"
-                    src={img} class="" alt="senderismo"/>
+                    src={img} alt="senderismo"/>
 
             </Carousel.Item>
             <Carousel.Item className="carousel-item" >
@@ -34,4 +34,4 @@ function DarkVariantExample() {
 }
 
 
-export default DarkVariantExample;
+export default CarouselComponent;

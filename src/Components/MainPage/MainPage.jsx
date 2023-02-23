@@ -1,8 +1,13 @@
 import React from 'react'
+import CarouselComponent from '../Slider/slider'
+import WeatherPanel from '../Weather/WeatherPanel'
 
 function MainPage() {
   return (
-    <div>MainPage</div>
+    <div>
+        <CarouselComponent />
+        <WeatherPanel />
+    </div>
   )
 }
 
