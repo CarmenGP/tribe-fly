@@ -1,9 +1,11 @@
 import './App.css';
-import AboutUs from './Components/AboutUs/AboutUs';
+/* import AboutUs from './Components/AboutUs/AboutUs'; */
+import DetailsPage from './Components/DetailsPage/DetailsPage';
 import { FooterContainer } from './Components/Footer/Footer';
-import MainPage from './Components/MainPage/MainPage';
-import MarketplacePage from './Components/MarketplacePage/MarketplacePage';
+/* import MainPage from './Components/MainPage/MainPage'; */
+/* import MarketplacePage from './Components/MarketplacePage/MarketplacePage'; */
 import Navbar from './Components/Navbar/Navbar';
+
 
 function App() {
   
@@ -12,7 +14,7 @@ function App() {
 
     <div className="App">
       <Navbar />
-      <MainPage />
+      <DetailsPage/>
       <FooterContainer /> 
 
     </div>
