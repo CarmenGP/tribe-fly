@@ -11,6 +11,10 @@
     "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",
     "react-icons-kit": "^2.0.0",
+<<<<<<< HEAD
+=======
+    "react-router-dom": "^6.8.1",
+>>>>>>> c0411cbc1bb6c65dc8bfa9582c1f39275325b09c
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"

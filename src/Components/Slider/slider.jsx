@@ -1,37 +1,30 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 import "./slider.css"
-import img from "./imagenes/img1.jpg"
-function DarkVariantExample() {
-    return (
-        <Carousel variant="dark" >
-            <Carousel.Item >
-                <img
-                    className="slider"
-                    src={img} class="" alt="senderismo"/>
+import africa from "./imagenes/africa.jpg"
+import asia from "./imagenes/asia.jpg"
+import india from "./imagenes/india.jpg"
+import sudamerica from "./imagenes/sudamerica.jpg"
 
+
+function CarouselComponent() {
+    return (
+        <Carousel variant="light" >
+            <Carousel.Item >
+                <img class="slider " src={africa} alt="africa" />
             </Carousel.Item>
             <Carousel.Item className="carousel-item" >
-                
-                <img
-                    className="slider"
-                    src="https://cdn.g4media.ro/wp-content/uploads/2022/12/apele-romane.jpg"
-                    alt="barcelona"
-                />
-
+                <img className="slider" src={asia} alt="asia" />
             </Carousel.Item>
             <Carousel.Item className="carousel-item">
-                
-                <img
-                        className="slider"
-                    src="https://tourismexpress.com/photos/images/PLanete.png"
-                    alt="amigos"
-                />
-
+                <img className="slider" src={india} alt="india" />
+            </Carousel.Item>
+            <Carousel.Item className="carousel-item">
+                <img className="slider" src={sudamerica} alt="insdafdia" />
             </Carousel.Item>
         </Carousel>
     );
 }
 
 
-export default DarkVariantExample;
+export default CarouselComponent;

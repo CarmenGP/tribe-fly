@@ -1,5 +1,14 @@
 .carousel-item {
+<<<<<<< HEAD
     height: 30rem;
     width: 100rem;
 
+=======
+    max-height: 50rem;
+    width: 100vw;
+}
+
+.slider{
+    width: 100%;
+>>>>>>> c0411cbc1bb6c65dc8bfa9582c1f39275325b09c
 }
