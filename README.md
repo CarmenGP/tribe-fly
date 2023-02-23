@@ -81,8 +81,7 @@ On our website, we strive to offer unique and authentic experiences. It's more t
 
 ## Tests 
 
-* 
-* 
+* npm test
 
 ## Methodology
 
