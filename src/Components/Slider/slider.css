@@ -1,20 +1,8 @@
 .carousel-item {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 30rem;
-    width: 100rem;
-
-=======
-=======
->>>>>>> 877273f27fd95c2b3765d4e4c2ed65d9fcf28e18
     max-height: 50rem;
     width: 100vw;
 }
 
 .slider{
     width: 100%;
-<<<<<<< HEAD
->>>>>>> c0411cbc1bb6c65dc8bfa9582c1f39275325b09c
-=======
->>>>>>> 877273f27fd95c2b3765d4e4c2ed65d9fcf28e18
 }
