@@ -27,8 +27,4 @@ function CarouselComponent() {
 }
 
 
-<<<<<<< HEAD
-export default DarkVariantExample;
-=======
 export default CarouselComponent;
->>>>>>> 7477ec5d8f3e274f4acb1e34cde8154d50b515b7
