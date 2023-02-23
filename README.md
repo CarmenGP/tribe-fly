@@ -86,9 +86,9 @@ On our website, we strive to offer unique and authentic experiences. It's more t
 
 ## Methodology
 
-* Agile and SCRUM
-* Mob programming
-* Pair programming
+* Agile and SCRUM.
+* Mob programming.
+* Pair programming.
 
 ## Core skills
 * MVC Design pattern.
