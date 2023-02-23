@@ -2,6 +2,7 @@ import React from 'react'
 import bcn from '../DetailsPage/images/bcn.jpg'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Card } from 'react-bootstrap';
+import "./DetailsPage.css"
 
 function DetailsPage() {
   return (
