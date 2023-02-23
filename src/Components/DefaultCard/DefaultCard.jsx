@@ -1,11 +1,11 @@
 import React from 'react'
-import './DefaultCard.css';
 
+function DefaultCard({ type, info}) {
+  return (
+    <div>
 
-function DefaultCard({ type, info }) {
-    return (<div>
-        
-    </div>)
+    </div>
+  )
 }
 
 export default DefaultCard
