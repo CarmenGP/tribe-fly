@@ -5,7 +5,7 @@ import WeatherPanel from './Components/Weather/WeatherPanel';
 function App() {
   return (
     <div className="App">
-    
+      <DarkVariantExample/>
       <WeatherPanel />
       <FooterContainer /> 
     </div>
