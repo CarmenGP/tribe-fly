@@ -76,3 +76,12 @@
     opacity: 0;
   }
 }
+
+.bg-green{
+  background-color: #5A7F64;
+}
+
+.text-dark{
+  color: #5A7F64 !important;
+  margin-bottom: 4rem; 
+}
