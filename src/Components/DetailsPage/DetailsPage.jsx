@@ -4,7 +4,7 @@ import Form from './Form/Form'
 function DetailsPage() {
   return (
     <div>
-        <Form />
+        <FormUpload />
     </div>
   )
 }
