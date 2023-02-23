@@ -45,9 +45,10 @@
     height: 60px;
   }
   
-  .navbar .links{
+  .navbar .link{
     list-style: none;
-    display: flex;
+    text-decoration: none;
+    display: inline-block;
     color: #5A7F64;
     cursor: pointer;
     align-items: center;
