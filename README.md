@@ -60,7 +60,8 @@ On our website, we strive to offer unique and authentic experiences. It's more t
  <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
  <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
  <img src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
- <img src= "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></img> 
+ <img src= "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></img>
+ <img src= "https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravellogoColor=white"></img>
  <img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></img> </p>
  
  ## Tools
@@ -79,12 +80,12 @@ On our website, we strive to offer unique and authentic experiences. It's more t
 
 * vendor/bin/phpunit
 * php artisan test
-* (5 tests, 5 assertions)
 
 ## Methodology
 
 * Agile and SCRUM
 * Mob programming
+* Pair programming
 
 ## Core skills
 * MVC Design pattern.
