@@ -1,6 +1,8 @@
 .card-img-caption {
     border-top-left-radius: calc(.25rem - 1px);
     border-top-right-radius: calc(.25rem - 1px);
+    display: flex;
+    justify-content: center;
   }
     
   .card-img-caption .card-img-top {
@@ -11,14 +13,33 @@
     filter: brightness(50%)
   }
 
-  .card-text{
+  .card-text, .card-subText{
     color: white;
+  }
+
+  .card-button{
+    position: absolute;
+    margin: 33% 0;
+    z-index: 1;
+    top: 1.5rem;
   }
       
   .card-img-caption .card-text {
     text-align: center;
+    font-weight: normal;
     width: 100%;
     margin: 33% 0;
     position: absolute;
+    bottom: 2rem;
+    z-index: 1;
+  }
+
+  .card-subText{
+    text-align: center;
+    font-weight: lighter;
+    width: 100%;
+    margin: 33% 0;
+    position: absolute;
+    bottom: 0.5rem;
     z-index: 1;
   }
