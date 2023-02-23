@@ -1,6 +1,6 @@
 import './App.css';
 import { FooterContainer } from './Components/Footer/Footer';
-import WeatherPanel from './Components/Tiempo/WeatherPanel';
+import WeatherPanel from './Components/Weather/WeatherPanel';
 
 function App() {
   return (

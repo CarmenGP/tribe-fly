@@ -1,5 +1,6 @@
 import React from "react";
 import Spinner from "./Spinners";
+import "./Spinner.css"
 
 const Card = ({loadingData, showData, weather, forecast}) => {
 
@@ -51,7 +52,7 @@ const Card = ({loadingData, showData, weather, forecast}) => {
                 showData === true ? (
 
                     <div className="container">
-                        <div className="card mb-3 mx-auto bg-dark text-light">
+                        <div className="card mb-3 mx-auto bg-green text-light">
                             <div className="row g-0">
                                 <div className="col-md-4">
                                     <h3 className="card-title">{weather.name}</h3>
@@ -60,7 +61,7 @@ const Card = ({loadingData, showData, weather, forecast}) => {
                                     <h1 className="card-temp">{(weather.main.temp -273.15).toFixed(1)}ºC</h1>
                                     <p className="card-desc" ><img src={iconUrl} alt="icon"/>{weather.weather[0].description}</p>
 
-                                <img src="https://images.pexels.com/photos/1334607/pexels-photo-1334607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="img-fluid rounded-start" alt="ciudad"/>
+                                <img src="https://img.freepik.com/free-photo/vertical-shot-mountain-hungary-full-trees-vegetation_181624-16586.jpg?w=360&t=st=1677151004~exp=1677151604~hmac=c45528359b0dd06ffb006375274d64baf6877359f86dc047e11647feb14cb118" className="img-fluid h-100 rounded-start" alt="ciudad"/>
                                 </div>
                                 <div className="col-md-8">
                                     <div className="card-body text-start mt-2">
