@@ -9,10 +9,7 @@ function App() {
     <div className="App">
 
       <AboutUs/>
-
-      <DarkVariantExample/>
-
-      <WeatherPanel />
+      
       <FooterContainer /> 
 
     </div>
