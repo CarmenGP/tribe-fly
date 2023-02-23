@@ -41,8 +41,8 @@ function FormUpload() {
 
   const handleSubmit = (event) => {
     event.prevetDefault();
-    let newExpe = { name, email, message, availability};
-    console.log(newExpe);
+    let newInfo = { name, email, message, availability};
+    console.log(newInfo);
    /*  expeHandler.addProduct(newExpe); */
   }
 
