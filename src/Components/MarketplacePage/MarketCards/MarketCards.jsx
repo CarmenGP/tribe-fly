@@ -2,8 +2,8 @@ import React, { useState } from 'react'
 import DefaultCard from '../../DefaultCard/DefaultCard'
 import "./CategoryCards.css"
 
-function CategoryCards() {
-    const productsArr = [{
+function MarketCards() {
+    const plansArr = [{
         title: "Barcelona",
         plan: "Tour de una tarde con guía."
       }, {
@@ -32,31 +32,20 @@ function CategoryCards() {
         title: "Canaima, Venezuela",
         plan: "1 semana en verano (20-27)"
       }]
-    
-      const categoriesArr = [{
-        title: "Pueblos Rurales",
-        img: ""
-      }, {
-        title: "Pueblos Rurales",
-        img: ""
-      }, {
-        title: "Pueblos Rurales",
-        img: ""
-      }]
-      let [products, setProducts] = useState(productsArr)
+      let [plans, setPlans] = useState(plansArr)
 
       const handleChange = (e) => {
-        let newArr = productsArr.filter(item => item.title.toUpperCase().includes(e.target.value.toUpperCase()))
-        setProducts(newArr)
+        let newArr = plansArr.filter(item => item.title.toUpperCase().includes(e.target.value.toUpperCase()))
+        setPlans(newArr)
       }
 
 
   return (
     <div className='d-flex container justify-content-md-around flex-md-row flex-column align-items-center flex-wrap gap-2'>
-        <input type="text" name="a" id="" onChange={handleChange}/>
-        {products.map(item => <DefaultCard  type="product" info={item} img="https://i.gyazo.com/123ef1129e9399f09e45466a6123e9d4.jpg"/>)}
+        <input type="text" onChange={handleChange}/>
+        {plans.map(item => <DefaultCard  type="category" info={item} img="https://i.gyazo.com/123ef1129e9399f09e45466a6123e9d4.jpg"/>)}
     </div>
   )
 }
 
-export default CategoryCards
+export default MarketCards

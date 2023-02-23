@@ -1,4 +1,5 @@
 import React from 'react'
+import "./DefaultCard.css"
 
 function DefaultCard({ type, info, img }) {
     return (type == "category" ?

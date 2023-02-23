@@ -1,10 +1,10 @@
 import React from 'react'
-import CategoryCards from './CategoryCards/CategoryCards'
+import MarketCards from './MarketCards/MarketCards'
 
 function MarketplacePage() {
   return (
     <div className='marketplacePage'>
-        <CategoryCards />
+        <MarketCards />
     </div>
   )
 }
