@@ -73,7 +73,7 @@ On our website, we strive to offer unique and authentic experiences. It's more t
 
 ## To-install-project
 
-* Clone git https: 
+* Clone git https://github.com/CarmenGP/tribe-fly/edit/main/README.md
 * npm install
 
 ## Tests 
