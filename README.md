@@ -45,13 +45,15 @@ On our website, we strive to offer unique and authentic experiences. It's more t
   
 ## Design
 
-<p align="center"><img src="https://user-images.githubusercontent.com/116794919/220883003-f8f5f9a6-9086-40a0-a0e2-2a31d1b4ee5f.png" width="300px">
+<p align="center">
 
-<img src="https://user-images.githubusercontent.com/116794919/220884858-8df7de65-6413-49a9-af8f-9e17930c7d57.png" width="300px">
+<img src="https://user-images.githubusercontent.com/116794919/220887955-63f4f80e-004c-41d3-903e-d12cec5addbe.png" width="300px">
 
-<img src="https://user-images.githubusercontent.com/116794919/220884542-ca340317-8502-4599-8066-2b0585e99c32.png" width="300px">
+<img src="https://user-images.githubusercontent.com/116794919/220888272-f1525d2a-603e-423e-99e7-3061ab3ee676.png" width="300px">
 
-<img src="https://user-images.githubusercontent.com/116794919/220884089-45724bd5-7a41-4f31-908b-a4038d9fda5c.png" width="300px"></p>
+<img src="https://user-images.githubusercontent.com/116794919/220888674-7d0366ea-2029-42df-93f8-a653b4d48db6.png" width="300px">
+
+<img src="https://user-images.githubusercontent.com/116794919/220888998-4fe8a857-d23e-4cfc-a251-15cecebd51bc.png" width="300px"></p>
 
 
 ## Technologies
