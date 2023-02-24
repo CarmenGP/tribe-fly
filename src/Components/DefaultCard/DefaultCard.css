@@ -9,6 +9,12 @@
     z-index: 0;
   }
 
+  .card-img-caption{
+    width: 20rem;
+    height: 15rem;
+    overflow: hidden;
+  }
+
   .card-img-top{
     filter: brightness(50%)
   }

@@ -14,7 +14,7 @@ function DetailsPage() {
         <Card.Body className='details-card-body'>
         <div className="row align-items-center">
           <div className="col-md-4">
-            <Card.Img src={bcn} />
+            <Card.Img src={stateInfo.img} />
           </div>
           <div className="col-md-8">
             <Card.Text className='h4 text-md-right text-center'>{stateInfo.title}</Card.Text>
@@ -24,8 +24,6 @@ function DetailsPage() {
       </Card.Body>
       </Card>
     </div>
-
-
   )
 }
 
