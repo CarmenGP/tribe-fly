@@ -1,0 +1,13 @@
+.team{
+    display: grid;
+    grid-gap: 10px;
+    padding: 3rem;
+
+}
+
+.img-container img{
+border-radius: 100%;
+width: 15rem;
+padding: 2rem;
+}
+

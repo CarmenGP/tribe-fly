@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Barcelona",
+    "plan": "Tour de una tarde con guía.",
+    "description": "¡Explora Barcelona y su cultura desde lo más profundo con nosotros. Descubre los lugares más emblemáticos de la ciudad, pero también explora los barrios menos turísticos para conocer la vida cotidiana de sus habitantes. Disfruta de la deliciosa gastronomía catalana en los restaurantes más auténticos. Nuestros guías locales te contarán historias y anécdotas sobre la ciudad y su cultura, y te llevarán a los rincones más especiales y escondidos que solo conocen los locales. Desde la arquitectura modernista de Gaudí hasta los monumentos históricos de la ciudad, no te pierdas esta experiencia única para conocer Barcelona desde adentro.",
+    "img": "https://i.imgur.com/ZFGZXh2.jpg"
+  },
+  {
+    "title": "Valencia",
+    "plan": "4 días del 1/03 - 4/03 (Fallas)",
+    "description": "¡Ven a conocer las Fallas de Valencia desde adentro con nuestro recorrido guiado por una pareja que sí que las conoce maravillosamente bien! Sumérgete en la fiesta más famosa de la ciudad, visita los talleres de los artistas falleros para conocer de primera mano el proceso de creación de las enormes figuras que se queman al final de la fiesta. Y no te pierdas el ambiente de las Fallas en las calles, donde podrás disfrutar de música, bailes, comida y bebida típica. Nuestros guías locales te llevarán a los lugares más auténticos y te explicarán las tradiciones y costumbres de esta fiesta única. ¡Vivelo!",
+    "img": "https://i.imgur.com/Hc9tx5h.jpg"
+  },
+  {
+    "title": "Los Roques",
+    "plan": "9 días con guía local nativo",
+    "description": "Si estás buscando una experiencia inolvidable en el Caribe, no busques más allá de Los Roques. Explora visitando las pequeñas comunidades pesqueras y pueblos en la isla,podrás disfrutar de la comida local y aprender sobre la forma de vida en esta hermosa región, una pareja enamorada de la isla te enseñará este maravilloso lugar  y  podrás convivir con una familia autóctona que no te dejará indiferente.",
+    "img": "https://i.imgur.com/iEHx76I.jpg"
+  },
+  {
+    "title": "Guadalajara, México",
+    "plan": "Tour de una tarde con guía.",
+    "description": "¡Descubre la belleza rural de Guadalajara con nuestro recorrido turístico! Adéntrate en la artesanía y gastronomía tradicional. Disfruta de hermosos paisajes naturales y aprende sobre la historia de la región  con un nuestro grupo que te enseñará lo más curioso de este peculiar y mágico lugar . ¡No te pierdas esta experiencia única e inolvidable!.",
+    "img": "https://i.imgur.com/AoEceYB.jpg"
+  },
+  {
+    "title": "Kerala, India",
+    "plan": "Tour de 3 días.",
+    "description": "¡Descubre Kerala con la guía perfecta! Somos una pareja de autóctonos muy divertidos te llevarán en un recorrido auténtico por la región, ofreciéndote una visión única de la cultura, la historia y la vida cotidiana de Kerala. ¡No te pierdas esta oportunidad de conocer Kerala de la mano de expertos locales!",
+    "img": "https://i.imgur.com/154QG40.jpg"
+  },
+  {
+    "title": "Selva de Irati",
+    "plan": "2 días con guía local",
+    "img": "https://i.imgur.com/Ufcykot.png"
+  },
+  {
+    "title": "Málaga",
+    "plan": "2 semanas en mayo (15-29)",
+    "description": "Descubre Málaga de una forma diferente, con nuestro recorrido guiado por una pareja muy peculiar! , descubre los viñedos de Ronda y la Serranía de Málaga. Si eres un amante de la historia descubre los secretos más ocultos de la ciudad de Málaga con una ruta guiada por sus túneles subterráneos y fortalezas históricas. Adéntrate en el arte urbano de Málaga con un tour por los murales y grafitis más impresionantes de la ciudad. No pierdas la oportunidad de vivir una experiencia única en Málaga con nuestros planes más originales.",
+    "img": "https://i.imgur.com/4rvWRns.jpg"
+  },
+  {
+    "title": "Bangkok, Taliandia",
+    "plan": "5 días en abril con guía nativo",
+    "description": "¡Explora Bangkok y descubre sus contrastes de la mano de los locales! Únete a nuestro recorrido auténtico y conoce la ciudad desde una perspectiva única. Visita los templos más sagrados y los mercados más populares, pero también sumérgete en los barrios menos conocidos para experimentar la vida cotidiana de los habitantes locales. Prueba la comida callejera más deliciosa y aprende sobre la cultura tailandesa a través de las historias y tradiciones de nuestros guías expertos. Conoce la verdadera Bangkok y crea recuerdos inolvidables.",
+    "img": "https://i.imgur.com/RCzyjGj.jpg"
+  },
+  {
+    "title": "Canaima, Venezuela",
+    "plan": "1 semana en verano (20-27)",
+    "description": "¡Sumérgete en la experiencia de conocer Canaima. Una familia nativa te llevará en un recorrido auténtico por este impresionante lugar, ofreciéndote un contacto con la  naturaleza, la cultura y las tradiciones de los Pemones. Disfruta de la majestuosidad de las cascadas, ríos y montañas de Canaima, y aprende sobre las creencias y leyendas de los Pemones. ¡No te lo puedes perder!.",
+    "img": "https://i.imgur.com/apXqXJY.jpg"
+  }
+]
