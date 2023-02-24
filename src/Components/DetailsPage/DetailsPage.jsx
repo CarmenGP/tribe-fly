@@ -19,6 +19,7 @@ function DetailsPage() {
           <div className="col-md-8">
             <Card.Text className='h4 text-md-right text-center'>{stateInfo.title}</Card.Text>
             <Card.Text className='text-md-right'>{stateInfo.description}</Card.Text>
+            <button className='card-button btn btn-light'>Contactar</button>
           </div>
         </div>
       </Card.Body>
