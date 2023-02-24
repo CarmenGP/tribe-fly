@@ -14,7 +14,3 @@ test("renders content", () => {
     component.getByText(info.title)
     component.container.querySelector("img")
 })
-
-test('clicking the button calls event handler', () => {
-
-})
