@@ -73,7 +73,7 @@ button.btn.btn-success.input-group-text {
 @media (min-width:1200px){
 
   .card {
-    max-width: 60%;
+    max-width: 100%;
   }
 
   .card-temp{
