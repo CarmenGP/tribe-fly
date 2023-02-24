@@ -53,12 +53,15 @@ On our website, we strive to offer unique and authentic experiences. It's more t
 
 <img src="https://user-images.githubusercontent.com/116794919/220888674-7d0366ea-2029-42df-93f8-a653b4d48db6.png" width="300px">
 
-<img src="https://user-images.githubusercontent.com/116794919/220888998-4fe8a857-d23e-4cfc-a251-15cecebd51bc.png" width="300px"></p>
+<img src="https://user-images.githubusercontent.com/116794919/220888998-4fe8a857-d23e-4cfc-a251-15cecebd51bc.png" width="300px">
+
+</p>
 
 
 ## Technologies
 
  <p align="center">
+ 
  <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
  <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
  <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
