@@ -11,7 +11,7 @@ function CarouselComponent() {
     return (
         <Carousel variant="light" >
             <Carousel.Item >
-                <img class="slider " src={africa} alt="africa" />
+                <img className="slider " src={africa} alt="africa" />
             </Carousel.Item>
             <Carousel.Item className="carousel-item" >
                 <img className="slider" src={asia} alt="asia" />

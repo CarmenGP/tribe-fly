@@ -1,3 +1,13 @@
-.aboutUs-Card{
+.aboutUs-CardText{
     color: #5A7F64;
+    font-weight: 600;
+    padding: 3rem 0 3rem 0;
+}
+
+.aboutUs-Card{
+    background-color: #f1d1719b;
+}
+
+.aboutUsPage{
+    padding: 8rem 0 3rem 0;
 }

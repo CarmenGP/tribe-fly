@@ -13,20 +13,20 @@ import Salah from "./imagenes/Salah.jpg"
 
 function TeamPhotos() {
     return(
-      <div class="team">
+      <div className="team">
         <div className='img-container'>
-          <img src={Jasmina} alt="Jasmina" />
-          <img src={Linda} alt="Linda" />
-          <img src={Lucas} alt="Lucas" />
-          <img src={Rodrigo} alt="Rodrigo" />
-          <img src={Rocio} alt="Rocio" />
+          <a href="https://github.com/JasMarin" target="_blank"><img src={Jasmina} alt="Jasmina"/></a>
+          <a href="https://github.com/LindaHG1" target="_blank"><img src={Linda} alt="Linda" /></a>
+          <a href="https://github.com/Lucasibf5" target="_blank"><img src={Lucas} alt="Lucas" /></a>
+          <a href="https://github.com/Rodrigo-ASJ" target="_blank"><img src={Rodrigo} alt="Rodrigo" /></a>
+          <a href="https://github.com/rgermillaclopez" target="_blank"><img src={Rocio} alt="Rocio" /></a>
         </div>
 
-      <div className='img-container'>
-        <img src={Anyi} alt="Anyi" />
-        <img src={Carmen} alt="Carmen" />
-        <img src={Vanesa} alt="Vanesa" />
-        <img src={Salah} alt="Salah" />
+      <div className='img-container align-items-center'>
+        <a href="https://github.com/Anyi79" target="_blank"><img src={Anyi} alt="Anyi" /></a>
+        <a href="https://github.com/CarmenGP" target="_blank"><img src={Carmen} alt="Carmen" /></a>
+        <a href="https://github.com/vanessa-cp" target="_blank"><img src={Vanesa} alt="Vanesa" /></a>
+        <a href="https://github.com/SalahREH" target="_blank"><img src={Salah} alt="Salah" /></a>
         </div>
         </div>
       

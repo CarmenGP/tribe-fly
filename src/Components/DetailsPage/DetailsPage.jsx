@@ -9,10 +9,10 @@ function DetailsPage() {
   const stateInfo = useLocation().state
 
   return (
-    <div className='detailsPage d-flex container justify-content-md-around flex-column align-items-center'>
-      <Card>
-        <Card.Body>
-        <div className="row col-md-12 align-items-center">
+    <div className='detailsPage d-flex container-l justify-content-md-around flex-column align-items-center'>
+      <Card >
+        <Card.Body className='details-card-body'>
+        <div className="row align-items-center">
           <div className="col-md-4">
             <Card.Img src={bcn} />
           </div>

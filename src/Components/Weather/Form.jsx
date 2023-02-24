@@ -13,7 +13,7 @@ const Form = ({newLocation}) => {
 
     return(
         <div className="container">
-            <h2 className="tiempoh2">¿Vas a viajar, Quieres saber qué tiempo hará?</h2>
+            <h2 className="tiempoh2">¿Vas a viajar y quieres saber qué tiempo hará?</h2>
             <form onSubmit={onSubmit}>
                 <div className="input-group mb-3 mx-auto">
                     <input type="text" className="form-control" placeholder="Ciudad" onChange={(e) =>setCity(e.target.value)}></input>
