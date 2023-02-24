@@ -1,6 +1,23 @@
-.row{
-padding:10%;
-background-color:  rgba(234, 210, 132, 0.629);
-border-radius: 10px;
+.row {
+    padding: 10%;
+    border-radius: 10px;
+}
 
+.detailsPage {
+    padding: 8rem 0 3rem 0;
+    color: #5A7F64;
+}
+
+.card-body {
+    background-color: #f1d171c3;
+}
+
+.card-body p {
+    color: #5A7F64;
+}
+
+@media only screen and (max-width: 750px) {
+    .detailsPage {
+        padding: 2rem 0 3rem 0;
+    }
 }
